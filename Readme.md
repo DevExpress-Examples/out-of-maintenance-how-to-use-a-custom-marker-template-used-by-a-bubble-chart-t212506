@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml](./CS/Bubble_CustomMarkerTemplate/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/Bubble_CustomMarkerTemplate/MainWindow.xaml))**
+<!-- default file list end -->
 # How to use a custom marker template used by a bubble chart
 
 
